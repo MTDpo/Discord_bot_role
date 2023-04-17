@@ -1,10 +1,10 @@
-BOT_TOKEN = "MTA5Mzc3NjkwMDkzMDk0MDkyOQ.Gh6h8y.BLB9k1Ct5DaPbPsPzMmWueCUMjpj1InIva-iak"
-ID_POST = 943526453990010913
+BOT_TOKEN = "Token" #Api key
+ID_POST = 0 #Post id
 USER_ROLES_LIST = ()
 MAX_ROLES = 3
 
-ROLES_LIST = {
-    "🐍": 1097464324399841450,
-    "🤖": 1097464744966889522,
-    "💽": 1097464831688327208,
+ROLES_LIST = { #Your roles ID and emoji
+    "🐍": 0,
+    "🤖": 1,
+    "💽": 2,
 }
